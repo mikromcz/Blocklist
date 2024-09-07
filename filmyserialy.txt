@@ -1,0 +1,80 @@
+!
+! Title: Filmy a serialy online (nelegalni)
+! Description: Online weby pro sledovani filmu a serialu
+! Source: https://www.sitelike.org/similar/bombuj.tv/
+!         https://www.sitelike.org/similar/sosac.tv/
+!         https://www.siteprice.org/similar-websites/sledujfilmy.online
+! Author: mikrom
+!
+! Last modified: 2023-11-25
+!
+
+||befun.cz^
+||bombuj.si^
+||bombuj.tv^
+||ceskatelevize.cz^
+||etelka.cz^
+||film-serial-online.sk^
+||film-serial.sk^
+||filmecheck.cz^
+||filmhouse.cz^
+||filmik.sk^
+||filmostroj.cz^
+||filmoto.cz^
+||filmovisko.cz^
+||filmplanet.to^
+||filmtoro.sk^
+||filmujeme.sk^
+||filmy-serialy-online.tv^
+||filmy.pw^
+||filmycesky.cz^
+||filmyhd.cz^
+||filmyon.cz^
+||filmyonlinefree.eu^
+||filmyonlinezdarma.sk^
+||filmyzive.cz^
+||freefilm.sk^
+||freefilm.to^
+||freeserial.to^
+||hbogo.cz^
+||hbogo.sk^
+||iprima.cz^
+||joj.sk^
+||kinohub.cz^
+||kinomania.cz^
+||kukaj.cz^
+||kukaj.to^
+||lepsi.tv^
+||lepsia.tv^
+||mnvvtv.com^
+||muvy.cz^
+||najfilmy.sk^
+||najserialy.co^
+||najserialy.to^
+||nejlepsi-filmy.cz^
+||nova.cz^
+||online-filmy.tv^
+||onlinefilmy.net^
+||onlinefilmykeshlednuti.cz^
+||onlinefilmyzadarmo.sk^
+||onlineserialy.cz^
+||playmovies.eu^
+||prehraj.me^
+||serialovamasina.cz^
+||serialusvet.cz^
+||seros.cz^
+||sledujeme-filmy.cz^
+||sledujfilmy.online^
+||sledujfilmy.to^
+||sledujserialy.sk^
+||sledujserialy.to^
+||sosac.tv^
+||svetserialov.sk^
+||teevee.sk^
+||tipnafilm.cz^
+||topfilmy.to^
+||topserialy.to^
+||voyo.cz^
+||yfilmy.sk^
+||zavislak.to^
+||zkouknito.cz^
