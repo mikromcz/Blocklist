@@ -6,14 +6,16 @@
 !         https://www.siteprice.org/similar-websites/sledujfilmy.online
 ! Author: mikrom
 !
-! Last modified: 2023-11-25
+! Last modified: 2024-09-07
 !
 
 ||befun.cz^
 ||bombuj.si^
 ||bombuj.tv^
 ||ceskatelevize.cz^
+||dabingforum.cz^
 ||etelka.cz^
+||fastshare.cz^
 ||film-serial-online.sk^
 ||film-serial.sk^
 ||filmecheck.cz^
@@ -23,6 +25,7 @@
 ||filmoto.cz^
 ||filmovisko.cz^
 ||filmplanet.to^
+||filmtoro.cz^
 ||filmtoro.sk^
 ||filmujeme.sk^
 ||filmy-serialy-online.tv^
@@ -50,6 +53,7 @@
 ||muvy.cz^
 ||najfilmy.sk^
 ||najserialy.co^
+||najserialy.com^
 ||najserialy.to^
 ||nejlepsi-filmy.cz^
 ||nova.cz^
@@ -68,6 +72,7 @@
 ||sledujfilmy.to^
 ||sledujserialy.sk^
 ||sledujserialy.to^
+||sledujufilmy.cz^
 ||sosac.tv^
 ||svetserialov.sk^
 ||teevee.sk^
@@ -75,6 +80,7 @@
 ||topfilmy.to^
 ||topserialy.to^
 ||voyo.cz^
+||xn--lep-tma39c.tv^
 ||yfilmy.sk^
 ||zavislak.to^
 ||zkouknito.cz^

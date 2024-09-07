@@ -11,7 +11,7 @@
 !         https://nelez.cz/csv.php
 ! Author: mikrom
 !
-! Last modified: 2024-04-02
+! Last modified: 2024-09-07
 !
 
 ||40plus.sk^
@@ -32,10 +32,12 @@
 ||anti-illuminati.wbl.sk^
 ||antiilluminati.net^
 ||antijujuagency.org^
+||antiliberal.sk^
 ||archa21.sk^
 ||arfa.cz^
 ||arindrexler.com^
 ||armadnymagazin.sk^
+||autoforum.cz^
 ||babickinerady.sk^
 ||badatel.net^
 ||badatelia.com^
@@ -45,6 +47,7 @@
 ||bajecnylekar.sk^
 ||bajecnyzivot.sk^
 ||beforeitsnews.com^
+||belobog.sk^
 ||bezpolitickekorektnosti.cz^
 ||bezpressu.news^
 ||biblik.sk^
@@ -77,6 +80,7 @@
 ||cv.xer.cz^
 ||cz.sputniknews.com^
 ||cz24.news^
+||czechaslavakia.cz^
 ||czechfreepress.cz^
 ||czechfreepress.info^
 ||datel.sk^
@@ -95,6 +99,7 @@
 ||dolezite.sk^
 ||domacaliecba.sk^
 ||dostojneslovensko.eu^
+||dracik.cz^
 ||dracik.sk^
 ||drsne.sk^
 ||dt24.cz^
@@ -133,6 +138,7 @@
 ||globalresearch.ca^
 ||gloria.tv^
 ||halonoviny.com^
+||hfi.sk^
 ||hlavnespravy.sk^
 ||hlavnydennik.sk^
 ||hnutipes.cz^
@@ -142,6 +148,7 @@
 ||inenoviny.sk^
 ||infokuryr.cz^
 ||informace.top^
+||inforovnovaha.sk^
 ||infovojna.bz^
 ||infovojna.sk^
 ||infowars.com^
@@ -150,6 +157,7 @@
 ||islamizace.cz^
 ||isstras.eu^
 ||je-to-inak.livejournal.com^
+||jednotneslovensko.info^
 ||jenona.tiscali.cz^
 ||jezis-kristus-varovanie.net^
 ||jihoceskenovinky.cz^
@@ -159,6 +167,8 @@
 ||kanal22.cz^
 ||karlovarskenovinky.cz^
 ||karolinaloskotova.blog.cz^
+||katolicka-cirkev-vosvete.webnode.sk^
+||kla.tv^
 ||knihya.cz^
 ||koalafeed.com^
 ||kob-forum.eu^
@@ -170,6 +180,7 @@
 ||kupredudominulosti.cz^
 ||kvapkymms.sk^
 ||lajkit.cz^
+||laska-pretvara-svet.webnode.sk^
 ||legalizuj.to^
 ||leva-net.webnode.cz^
 ||libereckenovinky.cz^
@@ -190,6 +201,7 @@
 ||mocvedomi.cz^
 ||moravskoslezskenovinky.cz^
 ||morezprav.cz^
+||myspulesvet.org^
 ||mysteria.sk^
 ||nadhlad.com^
 ||nadlani.org^
@@ -236,6 +248,7 @@
 ||otevrisvoumysl.cz^
 ||otvoroci.com^
 ||outsidermedia.cz^
+||ovirustunejde.cz^
 ||ozonyx.cz^
 ||panobcan.sk^
 ||paralelne.cz^
@@ -252,8 +265,10 @@
 ||podtatransky-kurier.sk^
 ||pokec24.cz^
 ||politickemimovladky.sk^
+||politikarina.cz^
 ||poockovani.cz^
 ||poselstvi-zbytku.org^
+||potratari.com^
 ||pozitivnisvet.cz^
 ||pravda24.cz^
 ||pravdive.eu^
@@ -272,6 +287,7 @@
 ||procproto.cz^
 ||proevropu.com^
 ||prosvet.cz^
+||protest.novemedia.sk^
 ||protiproud.cz^
 ||protiproud.info^
 ||protiprud.sk^
@@ -281,6 +297,7 @@
 ||qanon.sk^
 ||quintus-sertorius.webnode.cz^
 ||radiokompas.sk^
+||radiouniversum.cz^
 ||radynadzlato.sk^
 ||radyprezdravie.sk^
 ||radyprezeny.sk^
@@ -296,16 +313,20 @@
 ||revoluciapravdy.sk^
 ||rizikaockovania.sk^
 ||rizikavakcin.org^
+||rodacirodakom.sk^
+||rodakinformuje.sk^
 ||rodon.cz^
 ||rozhladna.org^
 ||rozhlady.sk^
 ||rt.com^
+||rtps.sk^
 ||rudovasky.com^
 ||rukojmi.cz^
 ||samvojakvpoli.sk^
 ||sho.sk^
 ||silavedomia.sk^
 ||sk.news-front.info^
+||sk.news-front.su^
 ||sknews.sk^
 ||skrytapravda.cz^
 ||skspravy.sk^
@@ -322,13 +343,18 @@
 ||slovinfos.sk^
 ||slvcr.cz^
 ||smartnews.cz^
+||snn.sk^
 ||somzena.sk^
 ||southfront.org^
 ||spdr.sk^
+||spolocnostsbm.com^
+||spolok-archa.info^
 ||spravodaj.net^
 ||spravy.goodboog.com^
 ||sputniknews.com^
+||srspol.sk^
 ||stalo-se.cz^
+||standard.sk^
 ||stop5g.cz^
 ||stopislam.eu^
 ||stratenaeuropa.sk^
@@ -350,6 +376,8 @@
 ||topcz.net^
 ||torden.sk^
 ||trendweb.sk^
+||tvjanosik.com^
+||tvorivaspolocnost.sk^
 ||tvotv.sk^
 ||tydenikobcanskepravo.cz^
 ||ubytovanieslovensko.com^
@@ -366,12 +394,16 @@
 ||vipnoviny.cz^
 ||vitalitis.cz^
 ||vitazstvosvetla.org^
+||vkpatriarhat.org^
 ||vlasteneckenoviny.cz^
 ||vlastnihlavou.cz^
 ||vlkovobloguje.wordpress.com^
+||vmagazin.sk^
+||vmarkus.sk^
+||voiceofeurope.com/cs/^
+||voiceofeurope.com^
 ||volnazona.com^
 ||voltairenet.org^
-||voiceofeurope.com^
 ||voxpopuliblog.cz^
 ||vylectese.cz^
 ||wearechange.org^
@@ -387,6 +419,8 @@
 ||zalobyvocistatu.sk^
 ||zastavmezlodeje.com^
 ||zdraveforum.cz^
+||zdravotnictvo2.webnode.sk^
+||zdravysex.sk^
 ||zemavek.sk^
 ||zenskerady.sk^
 ||zlapanda.cz^
@@ -397,6 +431,6 @@
 ||zpravodaj24.eu^
 ||zpravy.dt24.cz^
 ||zsi.sk^
+||zvedavec.news^
 ||zvedavec.org^
 ||zvtv.sk^
-
