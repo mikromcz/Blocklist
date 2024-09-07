@@ -14,7 +14,7 @@ Zdroje:
 - https://kontrolawebu.pridat.eu/seznam-coi/
 - https://addons.mozilla.org/cs/firefox/addon/kontrola-duveryhodnosti-webu/
 
-Bloklist: [coi.txt](coi.txt)
+Bloklist: ``https://raw.githubusercontent.com/mikromcz/Blocklist/main/coi.txt``
 
 ## CZ dezinfo
 
@@ -30,7 +30,7 @@ Zdroje:
 - https://konspiratori.sk/static/lists/zoznam.csv
 - https://nelez.cz/csv.php
 
-Bloklist: [dezinfo.txt](dezinfo.txt)
+Bloklist: ``https://raw.githubusercontent.com/mikromcz/Blocklist/main/dezinfo.txt``
 
 ## Filmy a serialy online (nelegalni)
 
@@ -41,4 +41,4 @@ Zdroje:
 - https://www.sitelike.org/similar/sosac.tv/
 - https://www.siteprice.org/similar-websites/sledujfilmy.online
 
-Bloklist: [filmyserialy.txt](filmyserialy.txt)
+Bloklist: ``https://raw.githubusercontent.com/mikromcz/Blocklist/main/filmyserialy.txt``
