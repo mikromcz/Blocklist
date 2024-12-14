@@ -11,7 +11,7 @@
 !         https://nelez.cz/csv.php
 ! Author: mikrom
 !
-! Last modified: 2024-09-07
+! Last modified: 2024-12-14
 !
 
 ||40plus.sk^
@@ -54,6 +54,7 @@
 ||biosferaklub.info^
 ||blokprotiislamizaci.cz^
 ||bnw-nwo.wz.cz^
+||bohemiadaily.com^
 ||bollyn.com^
 ||borea.cz^
 ||borrea.eu^
@@ -77,8 +78,6 @@
 ||conspi.cz^
 ||counterpunch.org^
 ||creativesociety.com^
-||cv.xer.cz^
-||cz.sputniknews.com^
 ||cz24.news^
 ||czechaslavakia.cz^
 ||czechfreepress.cz^
@@ -339,6 +338,7 @@
 ||slovenskaiskra.sk^
 ||slovenskeslovo.sk^
 ||slovenskoaktualne.sk^
+||slovensky-vecernik.sk^
 ||slovenskydohovorzarodinu.sk^
 ||slovinfos.sk^
 ||slvcr.cz^
@@ -400,8 +400,8 @@
 ||vlkovobloguje.wordpress.com^
 ||vmagazin.sk^
 ||vmarkus.sk^
-||voiceofeurope.com/cs/^
 ||voiceofeurope.com^
+||voiceofeurope.com/cs/^
 ||volnazona.com^
 ||voltairenet.org^
 ||voxpopuliblog.cz^
@@ -413,6 +413,7 @@
 ||wmmagazin.cz^
 ||woman.tiscali.cz^
 ||worldtruth.tv^
+||xer.cz^
 ||yournewswire.com^
 ||youth-time.eu^
 ||zahadnysvet.sk^
