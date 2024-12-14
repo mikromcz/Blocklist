@@ -7,7 +7,7 @@
 !         https://addons.mozilla.org/cs/firefox/addon/kontrola-duveryhodnosti-webu/
 ! Author: mikrom
 !
-! Last modified: 2024-09-07
+! Last modified: 2024-12-14
 !
 
 ||100-solarni-lampa-cz.com^
@@ -56,11 +56,14 @@
 ||adnet99.com^
 ||adoptovatvcelu.com^
 ||adurtho.com^
+||aercruft.com^
 ||ahojahoj.com^
+||achaet.com^
 ||achatpharma.cz^
 ||aiglevyprodej.cz^
 ||airlevne.cz^
 ||airselfiecamera.com^
+||airupczechrepublics.top^
 ||airydress.com^
 ||aizen.cz^
 ||aizhongzhou.com^
@@ -82,12 +85,15 @@
 ||alofixa.com^
 ||alohasboty.cz^
 ||aloyoga.cz^
+||alo-yoga.cz^
 ||aloyogacz.com^
 ||alphagrr.xyz^
 ||alphazgr.work^
+||altracz.com^
 ||altracz.cz^
 ||altra-cz.cz^
 ||altrarunnerscz.com^
+||altrarunningcz.cz^
 ||alzaland.cz^
 ||amaliepraha.com^
 ||amaroklb.com^
@@ -100,6 +106,7 @@
 ||amorise.com^
 ||andreasmidova.cz^
 ||andreatailor.eu^
+||anekkecz.eu^
 ||annapolackova.cz^
 ||annivett.com^
 ||anstyl.cz^
@@ -217,6 +224,7 @@
 ||blundstoneboty.com^
 ||blundstonebotypraha.cz^
 ||bluperlacesko.com^
+||bnbgtp.shop^
 ||boandtee.cz^
 ||bodywellness247.com^
 ||boilingsmart.com^
@@ -233,6 +241,7 @@
 ||bosobotyleguano.cz^
 ||botyaku.cz^
 ||botyaltra.com^
+||botyaltralonepeak.com^
 ||botyasicsvyprodej.cz^
 ||botybogs.cz^
 ||botybrooks.cz^
@@ -261,6 +270,7 @@
 ||botyvibram.cz^
 ||bouceksport.cz^
 ||boxerkyprotebe.cz^
+||bozenas-tasky.cz^
 ||bozi-aukce.cz^
 ||brandcode.cz^
 ||breedenesintacon.tk^
@@ -269,12 +279,14 @@
 ||briskrd.com^
 ||brixtonballs.cz^
 ||brnojih.eu^
+||brooksrunning-cz.com^
 ||bstefancy.com^
 ||btc-czech.com^
 ||btc-financer.com^
 ||btcsystemsoftapp.com^
 ||btlua.shop^
 ||btsystemos.com^
+||buechliebhaberclub.com^
 ||bugattiboty.cz^
 ||bugattiobuv.cz^
 ||bundyakabaty.cz^
@@ -286,9 +298,11 @@
 ||buycz.shop^
 ||buyfivestore.com^
 ||buy-cheap.eu^
+||buyonepay.com^
 ||buyonlineto.world^
 ||buytestoultramaxenhancer.com^
 ||bymamiii.cz^
+||bymbymp.shop^
 ||bytuzitecny.cz^
 ||bzsas.cz^
 ||cafezlonin.cz^
@@ -464,6 +478,7 @@
 ||darekk80narozeninam.cz^
 ||darinahradska.cz^
 ||darka-line.cz^
+||dashingsoul.com^
 ||databazecitatu.cz^
 ||datalistshop.com^
 ||daunag.store^
@@ -523,6 +538,7 @@
 ||drlevneboty.cz^
 ||drmartensbotysleva.cz^
 ||drmartensczechrepublic.cz^
+||drmartensczshops.cz^
 ||drmartenskoupit.cz^
 ||drmartenslevne.cz^
 ||drmartenssleva.cz^
@@ -572,6 +588,7 @@
 ||electro-market.cz^
 ||elegantni.shop^
 ||elfshop.cz^
+||eliskabartova.com^
 ||elko-stovicek.cz^
 ||emnot.cz^
 ||enence.com^
@@ -590,6 +607,7 @@
 ||etnieslevne.cz^
 ||eufonie.cz^
 ||eugenibernad.com^
+||euroboxy.cz^
 ||europe2bitcoin.com^
 ||europebestshop.com^
 ||europebitcoinlab.com^
@@ -607,6 +625,7 @@
 ||extratopia.com^
 ||extrifitslovakia.eu^
 ||eyewear4you.cz^
+||ezwattpro.com^
 ||fableticsczechia.com^
 ||fableticsvyprodej.cz^
 ||factory2021.com^
@@ -642,6 +661,7 @@
 ||fitnesslitomysl.cz^
 ||fitoremedyheres.com^
 ||fixmyppcc.site^
+||fixwalks.com^
 ||flame-fashion.com^
 ||flaro.cz^
 ||flekobalm.pro^
@@ -651,7 +671,9 @@
 ||floridic.com^
 ||floryday.com^
 ||flyerlifestyle.com^
+||flylondonboty.cz^
 ||foggie.nl^
+||followboost.cz^
 ||footjoygolfboty.cz^
 ||forcebtcofferway.com^
 ||forhealth.me^
@@ -726,6 +748,7 @@
 ||grammebr.shop^
 ||greatest-shop.com^
 ||greatsnarods.com^
+||greecove.com^
 ||greekoyo.com^
 ||green-andblacktea.com^
 ||greenbiliard.sk^
@@ -807,6 +830,7 @@
 ||hranatost.cz^
 ||hrbatuvkostelec.cz^
 ||hry-prodivky.cz^
+||hs50bww.today^
 ||hsdfv.online^
 ||huglo.cz^
 ||huglo.sk^
@@ -816,6 +840,7 @@
 ||hunterholinky.cz^
 ||hunterholinkysleva.cz^
 ||hush-puppies.cz^
+||hvssdsv.shop^
 ||chacosandaly.cz^
 ||chalupa-servis.cz^
 ||change-of-assets.com^
@@ -878,6 +903,7 @@
 ||javeng.shop^
 ||jbstra.com^
 ||jd2trains.cz^
+||jdaptablej.monster^
 ||jdgoiab.cn^
 ||jedinecnydiar.cz^
 ||jednookydalekohledcz.com^
@@ -885,6 +911,7 @@
 ||jeskyne-pokladu.com^
 ||jimisia.ru^
 ||jinart.cz^
+||jiridrevo.cz^
 ||jitkacervenkova.cz^
 ||jizdnikolaprerov.cz^
 ||jjshouse.cz^
@@ -932,6 +959,7 @@
 ||keyine.shop^
 ||kfxgw.shop^
 ||khaite.cz^
+||khujobundaeshop.com^
 ||kidszona.cz^
 ||killstarcz.cz^
 ||kiplingkabelka.cz^
@@ -1044,11 +1072,13 @@
 ||lottalovee.com^
 ||lottovyprodej.cz^
 ||louboutinboty.cz^
+||lovecrazi.top^
 ||love-puls.shop^
 ||lowaboty.cz^
 ||lowabotyslevy.cz^
 ||lowa-obchod.cz^
 ||lowcaloriesmart.eu^
+||lrui.store^
 ||luckydevil.xyz^
 ||luckysaleonline.com^
 ||luggey.com^
@@ -1133,6 +1163,8 @@
 ||mnaulo.cz^
 ||mobigem.cz^
 ||modaaz.cz^
+||modamilacek.cz^
+||moda-opava.com^
 ||modaopava.cz^
 ||modendi.com^
 ||moja-cajovna.cz^
@@ -1144,6 +1176,7 @@
 ||monili.cz^
 ||monsterwine.cz^
 ||montecbunda.cz^
+||monttsstore.com^
 ||motocyklovehelmy.cz^
 ||motopenzion.cz^
 ||motorwarenhuis.de^
@@ -1309,6 +1342,7 @@
 ||originastyles.com^
 ||orislevy-vyprodej-brno.webnode.cz^
 ||ormolulondon.com^
+||ororowearcz.com^
 ||ospokya.com^
 ||ostrovskeozveny.cz^
 ||otraveniprazane.cz^
@@ -1320,6 +1354,7 @@
 ||outletonline2020.net^
 ||outletonline2021.ru^
 ||outletsale2020.com^
+||owalacz.cz^
 ||pageanket.com^
 ||paketstorch.cz^
 ||palladium-praha.com^
@@ -1333,6 +1368,7 @@
 ||parasias.com^
 ||parazitolnd.com^
 ||parazr.com^
+||parksidecz.com^
 ||partapytel.cz^
 ||paskycrest.cz^
 ||patagoniapraha.cz^
@@ -1374,6 +1410,8 @@
 ||poisoil.shop^
 ||pojisteni-hypoteka-investice.cz^
 ||pokeme.cz^
+||polene.cz^
+||polenepariskabelkycz.com^
 ||polikax.com^
 ||politercy.com^
 ||polixcd.com^
@@ -1400,6 +1438,7 @@
 ||prevska.com^
 ||prezentify.cz^
 ||primanastroje.cz^
+||primediscount24.com^
 ||primechnnls.com^
 ||primigishop.cz^
 ||prizniveparfemy.xyz^
@@ -1473,6 +1512,7 @@
 ||recardiond.com^
 ||recenzetop.cz^
 ||redbean.cz^
+||redmi-czk.com^
 ||redwingbotypraha.cz^
 ||reefcz.cz^
 ||reelio.cz^
@@ -1489,6 +1529,7 @@
 ||rezidencegoethe.cz^
 ||rickerfriends.org^
 ||riekerbotyshop.cz^
+||riekercz.com^
 ||riekereshopcz.cz^
 ||riekerobuveshop.sk^
 ||rigthoffer24.com^
@@ -1508,6 +1549,7 @@
 ||rt-export.com^
 ||rtiglassesshop.com^
 ||rueporter.com^
+||rufico-czech.com^
 ||rulniw.com^
 ||rusko-na-tvar-kn95-sk.com^
 ||rus-runa.cz ^
@@ -1515,6 +1557,7 @@
 ||rwblvtfc.com^
 ||ryanandtisha.com^
 ||ryderwear.cz^
+||sale-big.live^
 ||saleegoods.com^
 ||salescz.club^
 ||salesportal.cz^
@@ -1562,6 +1605,7 @@
 ||seogain.cz^
 ||servingyourpharmacy.com^
 ||servistrade.cz^
+||severnistyl.com^
 ||sexyplastenky.cz^
 ||sharkorder.com^
 ||shduolian.com^
@@ -1572,6 +1616,7 @@
 ||shoeshopcz.cz^
 ||shopcpagetti3.com^
 ||shopcvrea.com^
+||shopfasts.shop^
 ||shophunter.cz^
 ||shopnaturenow.com^
 ||shopolo.cz^
@@ -1590,11 +1635,13 @@
 ||silane-guard-official.site^
 ||simplyacro.cz^
 ||siosail.shop^
+||sisimoda.com^
 ||sjuy.store^
 ||skechersbotyobuv.cz^
 ||skechersbotyoutlet.cz^
 ||skechersczech.cz^
 ||skechersczechrepublic.cz^
+||skechersoutlet.cz^
 ||skechersprodej.cz^
 ||skechersvyprodej.cz^
 ||skims.cz^
@@ -1643,7 +1690,9 @@
 ||springatdelphi.com^
 ||spssourosice.cz^
 ||spydercz.cz^
+||sqnlin07.shop^
 ||srpenec.cz^
+||stanleycup.cz^
 ||starkuvdum.cz^
 ||starmaxxpneu.cz^
 ||stavimesvami.cz^
@@ -1651,14 +1700,18 @@
 ||stayingsafe.cz^
 ||stellamccartneycz.cz^
 ||stoneislandcz.cz^
+||storecze.com^
 ||stores2020.net^
+||storevuonel.com^
 ||stormbuck.cz^
 ||stradivariuscz.cz^
 ||strakaastraka.cz^
 ||stronginfo24.com^
 ||studiorelax-benatky.cz^
 ||studuj-burzu.cz^
+||stussyczechrepublic.cz^
 ||stussymikinacz.com^
+||stussyscz.cz^
 ||stussyshop.cz^
 ||styledawn.com^
 ||suganormnd.com^
@@ -1690,6 +1743,7 @@
 ||tanecnicentrum-vm.cz^
 ||taneczeme.cz^
 ||tankovnauhaldy.cz^
+||tankphone-clearance.com^
 ||tatincidetem.cz^
 ||tbautodily.cz^
 ||t-brand.cz^
@@ -1703,6 +1757,7 @@
 ||tendaisy.com^
 ||tenisky-cz.com^
 ||teniskyhokaoneone.sk^
+||tereza-palivove.cz^
 ||tetarock.cz^
 ||tevabotystore.cz^
 ||tevabratislava.com^
@@ -1760,6 +1815,7 @@
 ||thursdayboots.cz^
 ||thursdaybootseurope.cz^
 ||tibushop.com^
+||tibvn.store^
 ||tidatours.cz^
 ||tikkisandale.cz^
 ||timberland-boty.cz^
@@ -1789,6 +1845,7 @@
 ||topwebsshop.com^
 ||tory-burch.cz^
 ||tovar-promo.com^
+||tpicashop.com^
 ||trackey.store^
 ||trapstar.cz^
 ||travelovers.cz^
@@ -1796,6 +1853,7 @@
 ||treninkplus.cz^
 ||tretryshimano.cz^
 ||trinlk.com^
+||triumphdiscount.com^
 ||trodat-cz.cz^
 ||trustableoffering.org^
 ||truthofthisworld.com^
@@ -1840,6 +1898,8 @@
 ||urbantrend.cz^
 ||useyourbestbrain.com^
 ||uspory.net^
+||utopiadigitalstore.com^
+||uvres.shop^
 ||uyjiy.shop^
 ||uzasnenabidky24.com^
 ||uzemneni.cz^
@@ -1961,6 +2021,8 @@
 ||wuying.shop^
 ||wwlnws.ru^
 ||wwnews24.su^
+||wworseou.lol^
+||wwyyggz.shop^
 ||xboxsleva.cz^
 ||xcartpro.com^
 ||xdrivestudio.cz^
