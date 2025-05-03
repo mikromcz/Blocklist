@@ -11,7 +11,7 @@
 !         https://nelez.cz/csv.php
 ! Author: mikrom
 !
-! Last modified: 2024-12-14
+! Last modified: 2025-05-03
 !
 
 ||40plus.sk^
@@ -29,12 +29,12 @@
 ||allatra.sk^
 ||almanach.cz^
 ||alternativnimagazin.cz^
-||anti-illuminati.wbl.sk^
 ||antiilluminati.net^
+||anti-illuminati.wbl.sk^
 ||antijujuagency.org^
 ||antiliberal.sk^
-||archa21.sk^
 ||arfa.cz^
+||archa21.sk^
 ||arindrexler.com^
 ||armadnymagazin.sk^
 ||autoforum.cz^
@@ -60,9 +60,9 @@
 ||borrea.eu^
 ||breitbart.com^
 ||bystricoviny.sk^
-||casopis-sifra.cz^
 ||casopisargument.cz^
 ||casopisdimenzie.sk^
+||casopis-sifra.cz^
 ||cbreurope.sk^
 ||ceskavec.com^
 ||ceskezpravy.eu^
@@ -72,12 +72,10 @@
 ||cesky-portal.cz^
 ||cestacloveka.sk^
 ||cestyksobe.cz^
-||chciplpes-eshop.cz^
-||chillin.sk^
-||christianitas.sk^
 ||conspi.cz^
 ||counterpunch.org^
 ||creativesociety.com^
+||cz.sputniknews.com^
 ||cz24.news^
 ||czechaslavakia.cz^
 ||czechfreepress.cz^
@@ -87,10 +85,10 @@
 ||davidicke.com^
 ||ddees.com^
 ||democracynow.org^
-||dennik-dnes.sk^
-||dennik-republika.sk^
 ||dennikdnes.com^
+||dennik-dnes.sk^
 ||dennikpolitika.sk^
+||dennik-republika.sk^
 ||desitka.org^
 ||dfens-cz.com^
 ||dieta.sk^
@@ -103,14 +101,14 @@
 ||drsne.sk^
 ||dt24.cz^
 ||duvikoncept.com^
-||e-republika.ch^
-||e-republika.cz^
 ||edjack.com^
 ||elektrosmog.voxo.eu^
 ||energieupramene.blogspot.sk^
 ||eportal.cz^
 ||epshark.cz^
 ||ereport.sk^
+||e-republika.cz^
+||e-republika.ch^
 ||ers.blog.cz^
 ||euportal.cz^
 ||eurabia.cz^
@@ -142,6 +140,9 @@
 ||hlavnydennik.sk^
 ||hnutipes.cz^
 ||hrot.info^
+||chciplpes-eshop.cz^
+||chillin.sk^
+||christianitas.sk^
 ||idemvolit.sk^
 ||incorrect.cz^
 ||inenoviny.sk^
@@ -155,9 +156,9 @@
 ||ipribeh.cz^
 ||islamizace.cz^
 ||isstras.eu^
-||je-to-inak.livejournal.com^
 ||jednotneslovensko.info^
 ||jenona.tiscali.cz^
+||je-to-inak.livejournal.com^
 ||jezis-kristus-varovanie.net^
 ||jihoceskenovinky.cz^
 ||jihomoravskenovinky.cz^
@@ -254,8 +255,8 @@
 ||paratdnes.cz^
 ||pardubickenovinky.cz^
 ||parlamentne-volby-2016.sk^
-||parlamentni-listy.cz^
 ||parlamentnilisty.cz^
+||parlamentni-listy.cz^
 ||petrabostlova.wordpress.com^
 ||picuscapital.sk^
 ||planetajednoduchost.sk^
@@ -338,8 +339,8 @@
 ||slovenskaiskra.sk^
 ||slovenskeslovo.sk^
 ||slovenskoaktualne.sk^
-||slovensky-vecernik.sk^
 ||slovenskydohovorzarodinu.sk^
+||slovensky-vecernik.sk^
 ||slovinfos.sk^
 ||slvcr.cz^
 ||smartnews.cz^
@@ -363,10 +364,10 @@
 ||suenee.cz^
 ||svedomi-naroda.cz^
 ||svetkolemnas.info^
-||svobodne-radio.com^
 ||svobodnenoviny.eu^
-||svobodny-vysilac.cz^
+||svobodne-radio.com^
 ||svobodnymonitor.cz^
+||svobodny-vysilac.cz^
 ||tadesco.cz^
 ||tadesco.org^
 ||tartaria.sk^
