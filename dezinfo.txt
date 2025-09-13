@@ -11,7 +11,7 @@
 !         https://nelez.cz/csv.php
 ! Author: mikrom
 !
-! Last modified: 2025-05-03
+! Last modified: 2025-09-13
 !
 
 ||40plus.sk^
@@ -69,6 +69,7 @@
 ||ceskoaktualne.cz^
 ||ceskobezcenzury.cz^
 ||ceskozdrave.cz^
+||ceskylist.cz^
 ||cesky-portal.cz^
 ||cestacloveka.sk^
 ||cestyksobe.cz^
@@ -286,6 +287,7 @@
 ||priznakytransformace.cz^
 ||procproto.cz^
 ||proevropu.com^
+||progresivne.com^
 ||prosvet.cz^
 ||protest.novemedia.sk^
 ||protiproud.cz^
@@ -402,7 +404,6 @@
 ||vmagazin.sk^
 ||vmarkus.sk^
 ||voiceofeurope.com^
-||voiceofeurope.com/cs/^
 ||volnazona.com^
 ||voltairenet.org^
 ||voxpopuliblog.cz^
@@ -414,6 +415,10 @@
 ||wmmagazin.cz^
 ||woman.tiscali.cz^
 ||worldtruth.tv^
+||www.infowars.cz^
+||www.otevrisvoumysl.cz^
+||www.pravyprostor.cz^
+||www.prvnizpravy.cz^
 ||xer.cz^
 ||yournewswire.com^
 ||youth-time.eu^
